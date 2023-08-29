@@ -1,4 +1,4 @@
-# Coin
+# Coin.
 
 ## Caracteristicas de un coin?
 1. [General Info](#general-info)
